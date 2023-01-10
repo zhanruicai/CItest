@@ -15,7 +15,7 @@ The main function is CI.test(). The kernel bandwidth can be chosen by the user's
 You can install the development version of CItest like so:
 
 ``` r
-# library(devtools)
+library(devtools)install_github("zhanruicai/CItest")
 ```
 
 ## Example
