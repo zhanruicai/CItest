@@ -1,0 +1,12 @@
+Package: CItest
+Type: Package
+Title: Distribution-Free Conditional Independence Test
+Version: 0.1.0
+Author: Zhanrui Cai
+Maintainer: Zhanrui Cai <ZHANRUICAI5@GMAIL.COM>
+Description: This package contains the code for the conditional independence test proposed in Cai, Zhanrui, Runze Li, and Yaowu Zhang. "A distribution free conditional independence test with applications to causal discovery." Journal of Machine Learning Research 23.85 (2022): 1-41.
+    The main function is CI.test(). The kernel bandwidth can be chosen by the user's favoriate method.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
